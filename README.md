@@ -24,3 +24,20 @@
 | telnet                  | überprüfen ob ein   Port lauft                                                                                                           | telnet google.com 80 | [-a] [-e] [-f] [-l]   [-t] host port                                                                           |
 | ping                    | überprüfen ob ein   Host/Server erreichbar ist über Layer 3                                                                              | ping 10.80.4.120     | [-t]   [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]  [-w timeout] [-R] [-p] [-4] [-6]                      |
 | nslookup                | Name Service   anfragen, und Infos erhalten                                                                                              | nslookup google.com  | minus pt                                                                                                       |
+
+### Navigation - Linux
+
+| **Navigation - Lin** |                                 |                                 |        |
+|--------------------- |---------------------------------|---------------------------------|--------|
+| **Kommand**          | **Anwendung /   Beschreibung**  | **Kommand Beispiel**            | **Option** |
+| cd                   | change directory                | cd /home                        |        |
+| pwd                  | print name of current directory | pwd                             |        |
+| ls                   | list directory                  | ls Documents/                   |        |
+| cp                   | copy                            | cp Documents/document Pictures/ |        |
+| mv                   | move                            | mv documents.txt Documents/     |        |
+| mkdir                | make directory                  | mkdir ordner                    |        |
+| rmdir                | remove directory                | rmdir ordner                    |        |
+| man                  | help/manuals                    | man pwd                         |        |
+| vi                   | text editor                     | vi documents                    |        |
+| touch                | leere datei erstellen           | touch Documents/text.txt        |        |
+| nano                 | text editor                     | nano documents                  |        |
