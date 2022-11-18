@@ -1,4 +1,6 @@
 # Local Area Network - Windows
+
+| Lan-Win                  |                                                                                                    |                  |                                                                                           |
 |--------------------------|----------------------------------------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------|
 | Kommand                  | Anwendung /   Beschreibung                                                                         | Kommand Beispiel | Option                                                                                    |
 | ipconfig                 | Netzwerk   Informationen, wie IP-Adressen                                                          | ipconfig /a      | /a /renew /release                                                                        |
