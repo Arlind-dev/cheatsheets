@@ -1,8 +1,7 @@
 ### Navigation - Linux
 
-| **Navigation - Lin** |                                 |                                 |
+| Commands             | Usage                           | example                         |
 |--------------------- |---------------------------------|---------------------------------|
-| **Commands**          | **Usage**                      | **example**                    |
 | cd                   | change directory                | cd /home                        |
 | pwd                  | print name of current directory | pwd                             |
 | ls                   | list directory                  | ls Documents/                   |

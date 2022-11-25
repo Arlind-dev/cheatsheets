@@ -1,8 +1,7 @@
 ### Wide Area Network - Windows
 
-| **WAN - Win**           |                                                                                                  |                      |                                                                                                                |
+| Kommand                 | Usage                                                                                            | example              | Options                                                                                                        |
 |-------------------------|--------------------------------------------------------------------------------------------------|----------------------|----------------------------------------------------------------------------------------------------------------|
-| **Kommand**             | **Usage**                                                                                        | **example**          | **Options**                                                                                                     |
 | tracert                 | See through which network devices and IPs you had to go through before reaching the destination  | tracert google.com   | [-d] [-h Max. Hops]   [-j Hostliste] [-w Zeitlimit] [-R] [-S Quelladresse] [-4] [-6]                           |
 | pathping                | Command above but with less information                                                          | pathping google.com  | [-g Hostliste] [-h   max. Hops] [-i Adresse] [-n] [-p Zeitraum]    [-q Abfrageanzahl] [-w Zeitlimit] [-4] [-6] |
 | route                   | see your Network Routing Tables                                                                  | route print          | add print delete   change [-4] [-6]                                                                            |

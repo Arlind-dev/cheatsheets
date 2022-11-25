@@ -1,8 +1,7 @@
 ### Vi Mode
 
-| **vim - lin**        |                                 |
-|----------------------|---------------------------------|
 | **Kombination**      | **Anwendung /   Beschreibung**  |
+|----------------------|---------------------------------|
 | esc                  | exit insert mode                |
 | i                    | start insert mod                |
 | u                    | undo the last action            |

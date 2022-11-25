@@ -1,8 +1,7 @@
 ### Local Area Network - Windows
 
-| **LAN-Win**              |                                                                                                    |                      |                                                                                           |
+| Kommand                  | usage                                                                                              | example              | Option                                                                                    |
 |--------------------------|----------------------------------------------------------------------------------------------------|--------------------- |-------------------------------------------------------------------------------------------|
-| **Kommand**              | **usage**                                                                                          | **Kommand Beispiel** | **Option**                                                                                |
 | ipconfig                 | get network information                                                                            | ipconfig /a          | /a /renew /release                                                                        |
 | arp                      | see all Adress Resolution Protokoll instances                                                      | arp -a               | [-a] [-g] [-v] [-d]   [-s]                                                                |
 | getmac                   | see all mac addresses that were connected to this device                                           | getmac               | /s /u /p /fo /nh v                                                                        |
