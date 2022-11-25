@@ -1,12 +1,12 @@
 # cheatsheets
 
-# Inhaltsverzeichnis
-##### Linux
+# Table of contents
+### Linux
  - [navigation](/Linux/navigation-linux.md)
  - [vi](/Linux/vi-linux.md)
  - [vim](/Linux/vim-linux.md)
-##### Windows
+### Windows
  - [lan](/Windows/localareanetwork-windows.md)
  - [wan](/Windows/wideareanetwork-windows.md)
-##### git bash
+### git bash
  - [git](/git-bash/git.md)
