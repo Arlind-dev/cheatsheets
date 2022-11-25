@@ -1,6 +1,8 @@
-git clone <url> <folder> # clone remote repository in folder (omit folder name will use repository name as foldername)
-git add <file> # stage one or multiple files
-git commit # commit all staged files
-git push # push all new commits to remote repository
-git pull # pull all new commits from remote repository
-git checkout <branch> # change branch
+| Kommand      | Anwendung Beschreibung               | Beispiel                 |
+|--------------|--------------------------------------|--------------------------|
+| git clone    | Repository klonen                    | git clone <url> <folder> |
+| git add      | Dateien für commits bereitstellen    | git add <file>           |
+| git commit   | Dateien commiten                     | git commit               |
+| git push     | Commits zum remote Repository senden | git push                 |
+| git pull     | Commits aus remote Repository holen  | git pull                 |
+| git checkout | Branch wechseln                      | git checkout <branch>    |
