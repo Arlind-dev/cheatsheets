@@ -1,4 +1,4 @@
-### Vi Mode
+### Vim
 
 #### Global
 | Combination   | Usage                 |
