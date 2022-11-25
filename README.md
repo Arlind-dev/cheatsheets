@@ -1,56 +1,12 @@
 # cheatsheets
-## all cheatsheets put together
 
-### Local Area Network - Windows
-
-| **LAN-Win**              |                                                                                                    |                      |                                                                                           |
-|--------------------------|----------------------------------------------------------------------------------------------------|--------------------- |-------------------------------------------------------------------------------------------|
-| **Kommand**              | **Anwendung /   Beschreibung**                                                                     | **Kommand Beispiel** | **Option**                                                                                |
-| ipconfig                 | Netzwerk   Informationen, wie IP-Adressen                                                          | ipconfig /a          | /a /renew /release                                                                        |
-| arp                      | Alle   Adress Resolution Protokoll instances, bzw.       Alle Gespeicherten MAC-Adressen anschauen | arp -a               | [-a] [-g] [-v] [-d]   [-s]                                                                |
-| getmac                   | Alle MAC-Adressen   anzeigen, die mit deinem Gerät verbunden sind / waren                          | getmac               | /s /u /p /fo /nh v                                                                        |
-| ping                     | überprüfen ob ein   Host/Server erreichbar ist über Layer 3                                        | ping 10.80.4.120     | [-t]   [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]  [-w timeout] [-R] [-p] [-4] [-6] |
-| route                    | mit dem Route Command   kannst du deine Network Routing Tables anschauen oder manuell editieren    | route print          | add print delete   change [-4] [-6]                                                       |
-
-### Wide Area Network - Windows
-
-| **WAN - Win**           |                                                                                                                                          |                      |                                                                                                                |
-|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----------------------------------------------------------------------------------------------------------------|
-| **Kommand**             | **Anwendung /   Beschreibung**                                                                                                           | **Kommand Beispiel** | **Option**                                                                                                     |
-| tracert                 | Zeigt alle   verschiedene Netzwerkgeräte, durch die es durchdringen musste, um zum Ziel   zugelangen                                     | tracert google.com   | [-d] [-h Max. Hops]   [-j Hostliste] [-w Zeitlimit] [-R] [-S Quelladresse] [-4] [-6]                           |
-| pathping                | Zeigt   alle verschiedene Netzwerkgeräte,       durch die es durchdringen musste, um zum Ziel zugelangen, mit weniger   Informationen    | pathping google.com  | [-g Hostliste] [-h   max. Hops] [-i Adresse] [-n] [-p Zeitraum]    [-q Abfrageanzahl] [-w Zeitlimit] [-4] [-6] |
-| route                   | mit dem Route Command   kannst du deine Network Routing Tables anschauen oder manuell editieren                                          | route print          | add print delete   change [-4] [-6]                                                                            |
-| netstat                 | mit   hilfe von einem immer aktualisierenden Fenster, kann man alle verbindungen   die dein Laptop bekommt oder anfragt angezeigt werden | netstat              | [-a] [-b] [-e] [-f]   [-n] [-o] [-p Protokoll] [-r] [-s] [-t] [-x] [-y] [Intervall]                            |
-| telnet                  | überprüfen ob ein   Port lauft                                                                                                           | telnet google.com 80 | [-a] [-e] [-f] [-l]   [-t] host port                                                                           |
-| ping                    | überprüfen ob ein   Host/Server erreichbar ist über Layer 3                                                                              | ping 10.80.4.120     | [-t]   [-a] [-n count] [-l size] [-f] [-i TTL] [-v TOS]  [-w timeout] [-R] [-p] [-4] [-6]                      |
-| nslookup                | Name Service   anfragen, und Infos erhalten                                                                                              | nslookup google.com  | minus pt                                                                                                       |
-
-### Navigation - Linux
-
-| **Navigation - Lin** |                                 |                                 |        |
-|--------------------- |---------------------------------|---------------------------------|--------|
-| **Kommand**          | **Anwendung /   Beschreibung**  | **Kommand Beispiel**            | **Option** |
-| cd                   | change directory                | cd /home                        |        |
-| pwd                  | print name of current directory | pwd                             |        |
-| ls                   | list directory                  | ls Documents/                   |        |
-| cp                   | copy                            | cp Documents/document Pictures/ |        |
-| mv                   | move                            | mv documents.txt Documents/     |        |
-| mkdir                | make directory                  | mkdir ordner                    |        |
-| rmdir                | remove directory                | rmdir ordner                    |        |
-| man                  | help/manuals                    | man pwd                         |        |
-| vi                   | text editor                     | vi documents                    |        |
-| touch                | leere datei erstellen           | touch Documents/text.txt        |        |
-| nano                 | text editor                     | nano documents                  |        |
-
-### Vi Mode
-
-| **vim - lin**        |                                 |
-|----------------------|---------------------------------|
-| **Kombination**      | **Anwendung /   Beschreibung**  |
-| esc                  | exit insert mode                |
-| i                    | start insert mod                |
-| u                    | undo the last action            |
-| :q                   | quit                            |
-| :q!                  | quit without saving             |
-| :sav                 | save                            |
-| :wq                  | save and quit                   |
+# Inhaltsverzeichnis
+##### Linux
+ - [navigation](/Linux/navigation-linux.md)
+ - [vi](/Linux/vi-linux.md)
+ - [vim](/Linux/vim-linux.md)
+##### Windows
+ - [lan](/Windows/localareanetwork-windows.md)
+ - [wan](/Windows/wideareanetwork-windows.md)
+##### git bash
+ - [git](/git-bash/git.md)
