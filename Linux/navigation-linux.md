@@ -11,5 +11,6 @@
 | rmdir                | remove directory                | rmdir ordner                    |
 | man                  | help/manuals                    | man pwd                         |
 | vi                   | text editor                     | vi documents                    |
+| vim                  | text editor                     | vim documents                   |
 | touch                | leere datei erstellen           | touch Documents/text.txt        |
 | nano                 | text editor                     | nano documents                  |
