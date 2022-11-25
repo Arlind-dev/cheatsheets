@@ -1,8 +1,8 @@
-| Kommand      | Anwendung Beschreibung               | Beispiel                 |
+| Kommand      | usage                                | example                  |
 |--------------|--------------------------------------|--------------------------|
-| git clone    | Repository klonen                    | git clone url folder     |
-| git add      | Dateien für commits bereitstellen    | git add -A               |
+| git clone    | clone repo                           | git clone url folder     |
+| git add      | stage files for commits              | git add -A               |
 | git commit   | Dateien commiten                     | git commit               |
-| git push     | Commits zum remote Repository senden | git push                 |
-| git pull     | Commits aus remote Repository holen  | git pull                 |
-| git checkout | Branch wechseln                      | git checkout branch      |
+| git push     | push commits to remote repo          | git push                 |
+| git pull     | pull commits from remote repo        | git pull                 |
+| git checkout | change branch                        | git checkout branch      |
