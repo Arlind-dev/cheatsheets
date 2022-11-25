@@ -1,4 +1,6 @@
-| Kommand      | usage                                | example                  |
+### git
+
+| **Command**  | **usage**                            | **example**              |
 |--------------|--------------------------------------|--------------------------|
 | git clone    | clone repo                           | git clone url folder     |
 | git add      | stage files for commits              | git add -A               |
