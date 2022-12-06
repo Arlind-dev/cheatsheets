@@ -1,2 +1,2 @@
-### [3. git-bash](/git-bash/)
- - [3.1 git](/git-bash/git.md)
+### [3. Git-Bash](/git-bash/)
+ - [3.1 Git](/git-bash/git.md)
