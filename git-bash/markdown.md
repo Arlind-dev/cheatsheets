@@ -1,3 +1,18 @@
+### Table of contents
+[Headers](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#headers)
+[Character Changes](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#character-changes)
+[Lists](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#lists)
+[Links](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#links)
+[Images](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#images)
+[Code stuff](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#code-stuff)
+[Tables](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#tables)
+[Horizontal lines](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#horizontal-lines)
+[HTML](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#html)
+[Quotes](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#quotes)
+[Footnotes](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#footnotes)
+
+
+
 ### Headers
 
 ```
