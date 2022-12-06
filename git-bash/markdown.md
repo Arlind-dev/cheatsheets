@@ -1,15 +1,15 @@
 ### Table of contents
-[Headers](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#headers)
-[Character Changes](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#character-changes)
-[Lists](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#lists)
-[Links](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#links)
-[Images](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#images)
-[Code stuff](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#code-stuff)
-[Tables](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#tables)
-[Horizontal lines](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#horizontal-lines)
-[HTML](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#html)
-[Quotes](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#quotes)
-[Footnotes](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#footnotes)
+[Headers](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#headers) <br>
+[Character Changes](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#character-changes) <br>
+[Lists](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#lists) <br>
+[Links](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#links) <br>
+[Images](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#images) <br>
+[Code stuff](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#code-stuff) <br>
+[Tables](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#tables) <br>
+[Horizontal lines](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#horizontal-lines) <br>
+[HTML](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#html) <br>
+[Quotes](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#quotes) <br>
+[Footnotes](https://github.com/Arlind-dev/cheatsheets/blob/main/git-bash/markdown.md#footnotes) <br>
 
 
 
