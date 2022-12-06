@@ -263,3 +263,5 @@ footnotes dont need to be numbers[^note].
 [^note]:
     because they use the same footnote id / number / word this one gets linked here
 but you may have noticed that even though I wrote `[^note]` it still got rendered as a number
+
+Sources: [adam-p markdown-here github repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
