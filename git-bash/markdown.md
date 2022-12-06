@@ -258,10 +258,11 @@ this is another footnote[^2].
 
 footnotes dont need to be numbers[^note].
 
+Sources: [adam-p markdown-here github repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)[^4]
+
 [^1]: because they use the same footnote id / number / word this one gets linked here
 [^2]: because they use the same footnote id / number / word this one gets linked here
 [^note]:
     because they use the same footnote id / number / word this one gets linked here
 but you may have noticed that even though I wrote `[^note]` it still got rendered as a number
-
-Sources: [adam-p markdown-here github repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[^4]: Just making this so its also all the way at the bottom Sources: [adam-p markdown-here github repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)[^4]
