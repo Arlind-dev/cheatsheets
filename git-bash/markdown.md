@@ -265,4 +265,5 @@ Sources: [adam-p markdown-here github repo](https://github.com/adam-p/markdown-h
 [^note]:
     because they use the same footnote id / number / word this one gets linked here
 but you may have noticed that even though I wrote `[^note]` it still got rendered as a number
-[^4]: Just making this so its also all the way at the bottom Sources: [adam-p markdown-here github repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)[^4]
+[^4]: Just making this so its also all the way at the bottom Sources:
+[adam-p markdown-here github repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)[^4]
