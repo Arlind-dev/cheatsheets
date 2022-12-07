@@ -2,4 +2,4 @@
  - [1.1 navigation](/Linux/navigation-linux.md)
  - [1.2 vi](/Linux/vi-linux.md)
  - [1.3 vim](/Linux/vim-linux.md)
- - [1.4 network](/Linux/vim-linux.md)
+ - [1.4 network](/Linux/networking-linux.md)
